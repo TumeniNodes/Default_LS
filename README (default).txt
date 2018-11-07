@@ -128,6 +128,7 @@ TumeniNodes (CC BY-SA 3.0):
   default_desert_cobble.png -- Derived from a texture by brunob.santos (CC BY-SA 3.0)
   default_coniferous_litter.png
   default_coniferous_litter_side.png
+  default_dirt.png
   default_mossycobble.png, based on texture by Neuromancer (CC BY-SA 3.0)
   default_chest_front.png, based on texture by BlockMen (CC BY-SA 3.0)
   default_chest_lock.png, based on texture by BlockMen (CC BY-SA 3.0)
@@ -234,10 +235,8 @@ random-geek (CC BY-SA 3.0):
   default_blueberry_overlay.png
   default_blueberry_bush_leaves.png, derived from default_bush_leaves (by paramat)
   default_blueberry_bush_sapling.png
-  default_dirt.png -- Derived from a texture by Neuromancer (CC BY-SA 3.0)
 
 Krock (CC0 1.0):
   default_glass.png
   default_glass_detail.png
-
 

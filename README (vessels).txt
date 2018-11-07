@@ -18,5 +18,5 @@ The following textures were modified by Thomas-S (CC BY-SA 3.0):
   vessels_glass_bottle.png
   vessels_steel_bottle.png
 
-The following texture was created by Wuzzy (CC BY-SA 3.0):
+The following texture was modified by TumeniNodes (CC BY-SA 3.0):
   vessels_shelf_slot.png TumeniNodes, based on a texture by Wuzzy (CC BY-SA 3.0)

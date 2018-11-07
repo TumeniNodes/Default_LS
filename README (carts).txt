@@ -14,10 +14,3 @@ license).
 [2] https://github.com/PilzAdam/carts/
 [3] https://github.com/stujones11/railcart/
 
-
-Features
-----------
-- A fast cart for your railway or roller coaster (up to 7 m/s!)
-- Boost and brake rails
-- Rail junction switching with the 'right-left' walking keys
-- Handbrake with the 'back' key

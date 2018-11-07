@@ -18,18 +18,3 @@ Muadtralk (CC BY-SA 3.0)
 Gambit (CC BY-SA 3.0)
   fire_flint_steel.png
 
-dobroide (CC BY 3.0)
-http://www.freesound.org/people/dobroide/sounds/4211/
-  fire_small.ogg
-
-Dynamicell (CC BY 3.0)
-http://www.freesound.org/people/Dynamicell/sounds/17548/
-  fire_large.ogg
-  fire_fire.*.ogg
-
-fire_small.ogg and fire_large.ogg are unused but kept temporarily to not break
-other mods that may use them.
-
-Benboncan (CC BY 3.0)
-https://www.freesound.org/people/Benboncan/sounds/66457/
-  fire_flint_and_steel.ogg

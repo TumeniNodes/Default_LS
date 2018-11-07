@@ -29,4 +29,3 @@ celeron55, Perttu Ahola <celeron55@gmail.com> (CC BY-SA 3.0):
   player.png
   player_back.png
 
-
